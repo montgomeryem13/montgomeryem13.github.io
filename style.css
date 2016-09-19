@@ -4,7 +4,7 @@ body {
 
 
 .bluerow {
-  background-color: purple;
+  background-color: lightpurple;
   display: flex;
   margin: 20px;
   height: 100%
@@ -18,7 +18,7 @@ body {
 
 
 .greyrow {
-background-color: blue;
+background-color: lightblue;
   display: flex;
 margin: 20px;
   
